@@ -1,0 +1,12 @@
+
+.section{
+    min-height: 100vh;
+    margin: 0 auto;
+    
+}
+
+.grid-cards{
+  display: flew;
+  gap: 20px;
+  justify-items: center;
+}

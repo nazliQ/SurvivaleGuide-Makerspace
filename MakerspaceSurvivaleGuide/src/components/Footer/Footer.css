@@ -1,0 +1,18 @@
+.footer{
+    background-color: black;
+    min-height: 200px;
+    height: auto;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.section-footer p{
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 300;
+    margin-bottom: 10px;
+}

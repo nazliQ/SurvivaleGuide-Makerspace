@@ -1,0 +1,12 @@
+.navCrum{
+    display: flex;
+    justify-content: left;
+    margin-right: 10px;
+}
+
+.border-bottom {
+    border-bottom: solid 1px;
+    margin-top: 10px;
+    width: 1020px;
+}
+

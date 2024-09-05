@@ -1,0 +1,19 @@
+.list-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .list-card {
+    justify-content: center;
+  }
+  
+  .list-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    cursor: pointer; /* Indicate that the item is clickable */
+  }
+  
+  .list-item:hover {
+    background-color: #f0f0f0; /* Optional: Add hover effect */
+  }
