@@ -6,7 +6,7 @@ const ListSection = ({ cardData }) => {
     <div className='list-cards'>
       {cardData.map((card) => (
         <div key={card.id} className='list-item'>
-          <h2 className='list-title'>{card.title}</h2>
+          <h3 className='list-title'>{card.title}</h3>
           <button className='list-button'>→</button> {/* Simple arrow button */}
         </div>
       ))}

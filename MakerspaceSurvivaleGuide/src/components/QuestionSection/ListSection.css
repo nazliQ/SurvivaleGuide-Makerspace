@@ -10,10 +10,14 @@
   .list-item {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     cursor: pointer; /* Indicate that the item is clickable */
   }
   
   .list-item:hover {
     background-color: #f0f0f0; /* Optional: Add hover effect */
+  }
+
+  h3{
+    font-weight: 300;
   }

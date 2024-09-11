@@ -1,12 +1,18 @@
 
 .section{
     min-height: 100vh;
-    margin: 0 auto;
+    margin: 10px;
     
 }
 
 .grid-cards{
-  display: flew;
-  gap: 20px;
-  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.card{
+  flex: 0 1 calc(25% - 1em);
+  margin-bottom: 30px;
 }
