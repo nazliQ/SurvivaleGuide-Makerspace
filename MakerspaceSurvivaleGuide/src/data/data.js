@@ -7,14 +7,16 @@ export const cardData = [
     },  
     {
         "id": 2, 
-        "title": "What can you make at Makerspace",
+        "title": "What can you make at Makerspace?",
         "utitle": "Class project, personal project, prototype, physical products, digital products",
+        "svar": `A Makerspace is a collaborative workspace equipped with tools and technology for creating,learning, 
+                exploring, and sharing ideas. It typically offers resources like 3D printers, electronics, and other fabrication tools to foster innovation and hands-on learning`,
         "kategori": "purple",
      
     },      
     {
         "id": 3,
-        "title": "Can I eat and drink at the Makerspace",
+        "title": "Can I eat and drink at the Makerspace?",
         "utitle": "Safety, cleanliness, professionalism, allergy, damaged projects and equipment",
         "kategori": "green",
     },

@@ -1,7 +1,7 @@
 import React from 'react'
 import './Card.css'
 
-const Card = ({card}) => {
+const Card = ({card, onViewDetails}) => {
 
   const buttonClass = (kategori) => {
     switch (kategori) {
@@ -24,7 +24,7 @@ const Card = ({card}) => {
         </div>
         <div className='card-body'>
             <p className="card-description">{card.utitle}</p>
-            <button className={`card-tag ${buttonClass(card.kategori)}`}>Read More</button>
+            <button className={`card-tag ${buttonClass(card.kategori)}`} onClick={() => onViewDetails(card)}>Read More</button>
         </div>
       </div>
   )
