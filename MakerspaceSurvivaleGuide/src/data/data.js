@@ -34,6 +34,7 @@ export const cardData = [
         "id": 4,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
      
 
@@ -43,6 +44,7 @@ export const cardData = [
         "id": 5,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
         
 
@@ -52,6 +54,7 @@ export const cardData = [
         "id": 6,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
      
 
@@ -61,6 +64,7 @@ export const cardData = [
         "id": 7,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
        
 
@@ -70,6 +74,7 @@ export const cardData = [
         "id": 8,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
       
 
@@ -79,6 +84,7 @@ export const cardData = [
         "id": 9,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
        
 
@@ -88,6 +94,7 @@ export const cardData = [
         "id": 10,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
       
 
@@ -97,6 +104,7 @@ export const cardData = [
         "id": 11,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
      
 
@@ -106,6 +114,7 @@ export const cardData = [
         "id": 12,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
 
     },
@@ -113,6 +122,7 @@ export const cardData = [
         "id": 13,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
 
     },
@@ -120,6 +130,7 @@ export const cardData = [
         "id": 14,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
 
     },
@@ -127,6 +138,7 @@ export const cardData = [
         "id": 15,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
 
     },
@@ -134,6 +146,7 @@ export const cardData = [
         "id": 16,
         "title": "Makerspace files",
         "utitle": "Hva en bør gjøre for å finne filer",
+        "svar": "noe tekst",
         "kategori": "yellow",
 
     },

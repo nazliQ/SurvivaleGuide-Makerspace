@@ -24,7 +24,8 @@
     font-weight: 300;
   }
 
-  .list-button{
+  
+  .btn-green {
     background-color:#5FC39C ;
     color: white;
     padding: 10px 25px;
@@ -35,6 +36,47 @@
     outline: 0;
   }
 
-  .list-button:hover{
+  .btn-green:hover {
     background-color: #499b7c;
   }
+  
+  .btn-yellow {
+    background-color:#EEF291;
+    color: rgb(35, 35, 35);
+    padding: 10px 25px;
+    font-size: 14px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+  }
+
+  .btn-yellow:hover {
+    background-color: #cacd78;
+  }
+  
+  .btn-purple {
+    background-color:#C197EC;
+    color: white;
+    padding: 10px 25px;
+    font-size: 14px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+  }
+  .btn-purple:hover {
+    background-color:#a57dcd;
+  }
+  
+  .btn{
+    background: black;
+    color: #E8E8E8;
+    padding: 10px 25px;
+    font-size: 14px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+  }
+  
