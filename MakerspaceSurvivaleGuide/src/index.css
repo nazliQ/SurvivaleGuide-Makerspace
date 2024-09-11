@@ -20,6 +20,11 @@ a{
     padding-right: 10%;
 }
 
+.wrapper{
+    margin-bottom: 200px;
+
+  }
+
 .btn{
     background: black;
     color: #E8E8E8;

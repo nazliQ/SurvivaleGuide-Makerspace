@@ -17,6 +17,7 @@ const CardSection = () => {
     setView('details'); // Switch til artikkel view
   };
 
+
   return (
     <div>
       <NavView setView={setView} />

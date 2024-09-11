@@ -1,23 +1,40 @@
 .list-section {
+    height: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
+    margin-bottom: 40px;
   }
+
   
-  .list-card {
-    justify-content: center;
-  }
   
   .list-item {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 5px;
-    cursor: pointer; /* Indicate that the item is clickable */
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: #e2e2e2;
+    transition: background-color 0.3s ease;
   }
   
-  .list-item:hover {
-    background-color: #f0f0f0; /* Optional: Add hover effect */
-  }
-
   h3{
     font-weight: 300;
+  }
+
+  .list-button{
+    background-color:#5FC39C ;
+    color: white;
+    padding: 10px 25px;
+    font-size: 14px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+  }
+
+  .list-button:hover{
+    background-color: #499b7c;
   }
