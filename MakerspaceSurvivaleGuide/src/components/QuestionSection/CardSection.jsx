@@ -14,12 +14,7 @@ const CardSection = () => {
 
   const handleCardClick = (card) => {
     setSelectedCard(card);
-    setView('details'); // Switch to detailed view
-  };
-
-  const handleBackClick = () => {
-    setSelectedCard(null);
-    setView('gallery'); // Switch back to gallery view
+    setView('details'); // Switch til artikkel view
   };
 
   return (
@@ -27,7 +22,7 @@ const CardSection = () => {
       <NavView setView={setView} />
       
       {view === 'details' && selectedCard ? (
-        <ArtikkelView card={selectedCard} onBack={handleBackClick} />
+        <ArtikkelView card={selectedCard} />
       ) : (
         <div className="section container">
           {view === 'gallery' ? (
