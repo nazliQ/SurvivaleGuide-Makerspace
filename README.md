@@ -10,14 +10,14 @@ I løpet av tiden som studentmento og ansatt på OsloMet Makerspace er det enkel
 Jeg håper dette kan være et enkelt oppslagsverk for folk flest. 
 
 ---
-### Verktøyt 
+### Verktøy 
 - Vite
 - React 
 - React dom
 - Bruker ren css for design
 - Vuderer å bruke boostrap  
 
-#### Gjøremøl 
+#### Gjøremål 
 - Få til ulike pages, eventuelt bruke react routing
 - Gjøre navnbar interaktiv, nå fungrer ikke knappene
 - Videre uvtikle views for svar-> data på hvert card-element ( css
